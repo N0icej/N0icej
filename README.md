@@ -2,7 +2,7 @@
 - 👀 I’m interested in Games
 - 🌱 I’m currently learning Multimedia
 - 💞️ I’m looking to collaborate on Some things
-- 📫 How to reach me n0icej on discord
+- 📫 How to reach me @noice.dev on discord
 
 <!---
 N0icej/N0icej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
